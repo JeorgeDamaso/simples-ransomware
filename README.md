@@ -1,0 +1,5 @@
+Uma das coisas que está em alta em segurança da informação é a existência de um Ransomware-as-a-service (RaaS).
+Aqui é uma pequena demonstração de um código simples e rápido de fazer em Python POO.
+Esse foi o primeiro desafio que me levou a programar há alguns anos atrás, demorei 3 semanas para fazer em código corrido, mas quando terminei pude ver uma melhora significativa nas minhas habilidades em programação, o que me levou depois a trabalhar com automação de tarefas, análise de dados e inteligência artifícial, habilidades estas que foram de grande valia para o mercado de logística realizando ETL e análise de dados em inventários e rastreio de serialização no setor elétrico e desenvolvendo programas e scripts para automatizar tarefas.
+Para passar o tempo decidir refatorar o código, porém agora em POO, com um código mais limpo e feito em alguns minutos ao invés de semanas...Somente a prática trás a perfeição.
+![image](https://user-images.githubusercontent.com/120589005/226226119-975ac917-cead-4851-90ff-e5c997d34fbc.png)
